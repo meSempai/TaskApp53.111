@@ -6,4 +6,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile">Profile</string>
+    <string name="title">title</string>
+    <string name="desc">desc</string>
+    <string name="Title">Title</string>
+    <string name="Desc">Desc</string>
 </resources>

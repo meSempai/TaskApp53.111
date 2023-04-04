@@ -10,7 +10,7 @@
        android:id="@+id/img_profile"
        android:layout_gravity="center"
        android:layout_marginTop="16dp"
-       android:src="@color/purple_200"
+       android:src="@drawable/ic_intent"
        android:scaleType="centerCrop"
        />
 
@@ -22,5 +22,10 @@
        android:id="@+id/et_name"
        android:hint="name"
        android:padding="16dp"/>
+
+
+
+
+
 
 </LinearLayout>
